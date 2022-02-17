@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.my{
+    background-color: rgb(192, 226, 238);
+    
+}
+.myd{
+    margin-left: 10% !important;
+    
+}
+.itm{
+    margin: auto !important;
+    margin-right: 10% !important;
+   
+}
+.itm a{
+    font-size: 18px;
+}
+.itm a:hover{
+    background-color: lightgray;
+    color: blue !important;
+
+    border-radius: 30%;
+}
+.col-4{
+    width: 36%;
+}
+.col-4 img{
+    height: 50vh;
+}
+
+.rassel img{
+    height: 24vh;
+}
+.last2{
+    height: 24vh;
+    margin-bottom: 2vh;
+}
+
+
