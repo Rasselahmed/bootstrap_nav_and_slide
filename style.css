@@ -25,12 +25,11 @@
 
     border-radius: 30%;
 }
-.col-4{
-    width: 36%;
-}
-.col-4 img{
+
+.col4 img{
     height: 50vh;
 }
+
 
 .rassel img{
     height: 24vh;
